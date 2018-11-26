@@ -1,0 +1,7 @@
+D:\univer\OOP_Labs\SeaBattleWithTests\SeaBattleWithTests\obj\Debug\SeaBattleWithTests.csprojAssemblyReference.cache
+D:\univer\OOP_Labs\SeaBattleWithTests\SeaBattleWithTests\obj\Debug\SeaBattleWithTests.csproj.CoreCompileInputs.cache
+D:\univer\OOP_Labs\SeaBattleWithTests\SeaBattleWithTests\bin\Debug\SeaBattleWithTests.exe.config
+D:\univer\OOP_Labs\SeaBattleWithTests\SeaBattleWithTests\bin\Debug\SeaBattleWithTests.exe
+D:\univer\OOP_Labs\SeaBattleWithTests\SeaBattleWithTests\bin\Debug\SeaBattleWithTests.pdb
+D:\univer\OOP_Labs\SeaBattleWithTests\SeaBattleWithTests\obj\Debug\SeaBattleWithTests.exe
+D:\univer\OOP_Labs\SeaBattleWithTests\SeaBattleWithTests\obj\Debug\SeaBattleWithTests.pdb

@@ -1,0 +1,17 @@
+D:\univer\OOP_Labs\SeaBattleWithTests\SeaBattleWithTestsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\univer\OOP_Labs\SeaBattleWithTests\SeaBattleWithTestsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\univer\OOP_Labs\SeaBattleWithTests\SeaBattleWithTestsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\univer\OOP_Labs\SeaBattleWithTests\SeaBattleWithTestsTests\bin\Debug\SeaBattleWithTestsTests.dll
+D:\univer\OOP_Labs\SeaBattleWithTests\SeaBattleWithTestsTests\bin\Debug\SeaBattleWithTestsTests.pdb
+D:\univer\OOP_Labs\SeaBattleWithTests\SeaBattleWithTestsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\univer\OOP_Labs\SeaBattleWithTests\SeaBattleWithTestsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\univer\OOP_Labs\SeaBattleWithTests\SeaBattleWithTestsTests\bin\Debug\SeaBattleWithTests.exe
+D:\univer\OOP_Labs\SeaBattleWithTests\SeaBattleWithTestsTests\bin\Debug\SeaBattleWithTests.pdb
+D:\univer\OOP_Labs\SeaBattleWithTests\SeaBattleWithTestsTests\bin\Debug\SeaBattleWithTests.exe.config
+D:\univer\OOP_Labs\SeaBattleWithTests\SeaBattleWithTestsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\univer\OOP_Labs\SeaBattleWithTests\SeaBattleWithTestsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\univer\OOP_Labs\SeaBattleWithTests\SeaBattleWithTestsTests\obj\Debug\SeaBattleWithTestsTests.csprojAssemblyReference.cache
+D:\univer\OOP_Labs\SeaBattleWithTests\SeaBattleWithTestsTests\obj\Debug\SeaBattleWithTestsTests.csproj.CoreCompileInputs.cache
+D:\univer\OOP_Labs\SeaBattleWithTests\SeaBattleWithTestsTests\obj\Debug\SeaBattleWithTestsTests.csproj.CopyComplete
+D:\univer\OOP_Labs\SeaBattleWithTests\SeaBattleWithTestsTests\obj\Debug\SeaBattleWithTestsTests.dll
+D:\univer\OOP_Labs\SeaBattleWithTests\SeaBattleWithTestsTests\obj\Debug\SeaBattleWithTestsTests.pdb
